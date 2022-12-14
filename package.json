@@ -1,5 +1,5 @@
 {
-  "name": "@kolkov/angular-editor",
+  "name": "@inits/angular-editor",
   "version": "3.0.0-beta.0",
   "scripts": {
     "ng": "ng",
@@ -29,7 +29,6 @@
     "@angular/platform-browser": "^13",
     "@angular/platform-browser-dynamic": "^13",
     "@angular/router": "^13",
-    "@inits/angular-editor": "file:projects/angular-editor",
     "font-awesome": "^4.7.0",
     "rxjs": "~6.5.4",
     "tslib": "^2.4.0",
